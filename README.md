@@ -11,3 +11,8 @@ Britta, a member of the Amazing Prime video team, needed to gather data from bot
   - Data Source: Wikipedia data, Kaggle metadata, and the MovieLens rating data
   - Software: Python 3.9.7, Jupyter Notebook and Pandas 1.2.4
   - Database: PostgreSQL 13
+
+## Results
+
+ - 6,052 Movie Data rows imported to a SQL Table in PostgreSQL
+ - 26,024,289 Rating Data rows imported to a SQL Table in PostgreSQL
