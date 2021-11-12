@@ -16,8 +16,8 @@ Britta, a member of the Amazing Prime video team, needed to gather data from bot
 
  - 6,052 Movie Data rows imported to a SQL Table in PostgreSQL
    
-   <img src="Resources/movies_query.PNG" width="400" />
+   <img src="Resources/movies_query.PNG" width="300" />
    
-   <img src="Resources/movies_table.PNG" width="400" />
+   <img src="Resources/movies_table.PNG" width="500" />
    
  - 26,024,289 Rating Data rows imported to a SQL Table in PostgreSQL
