@@ -24,4 +24,4 @@ Britta, a member of the Amazing Prime video team, needed to gather data from bot
     
    <img src="Resources/ratings_query.PNG" width="300" /> <br />
    
-   <img src="Resources/ratings_table.PNG" width="400" />
+   <img src="Resources/ratings_table.PNG" width="300" />
